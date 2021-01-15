@@ -1,5 +1,23 @@
 .App {
-  text-align: center;
+	text-align: center;
+}
+
+.theme__black {
+	background: url('./img/stars.svg'), #1B1B25;
+	color: white;
+}
+
+.theme__light {
+	background-color: whitesmoke;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px;
+}
+
+button {
+	margin-bottom: 25px;
 }
 
 .App-logo {

@@ -1,0 +1,22 @@
+.Characters {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.Characters__item {
+	margin: 15px;
+	border: 1px solid whitesmoke;
+	border-radius: 15px;
+}
+
+.Search {
+	width: 100%;
+	margin: 25px;
+}
+
+.Favorites__item {
+	margin: 15px;
+	border: 1px solid whitesmoke;
+	border-radius: 15px;
+}
